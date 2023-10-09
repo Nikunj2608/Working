@@ -1,0 +1,40 @@
+.container {
+  height: 100%;
+  margin: 0;
+}
+
+.container {
+  background-image: url('BG\ Image.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  width: 1728px; 
+  height: 712px; 
+  
+  margin: 0;
+}
+
+ 
+
+body, html {
+    height: 100%;
+    margin: 0;
+  }
+  
+  .container {
+    width: 1728px; 
+    height: 333px; 
+    padding: 0 224px; 
+    margin: 48px 0; 
+    background-color: #f0f0f0; 
+  }
+  
+  .text-content {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px; 
+  }
+  
